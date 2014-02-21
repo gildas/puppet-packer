@@ -1,0 +1,8 @@
+name    'gildas-packer'
+version '0.1.0'
+source 'https://github.com/gildas/puppet-packer'
+author 'gildas'
+license 'Apache License, Version 2.0'
+summary 'Packer package installer'
+description 'Packer package installer for PuppetLabs'
+project_page 'https://github.com/gildas/puppet-packer'
